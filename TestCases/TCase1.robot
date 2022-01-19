@@ -14,7 +14,7 @@ LoginTest1
 *** Keywords ***
 loginToApplication
         click link      xpath://*[@id="MenuContent"]/a[2]
-        input text      name:username   palg@gmail.com
+        input text      name:username   palgupta1229@gmail.com
         input text      name:password  Pallavi@123
         click element   name:signon
 
